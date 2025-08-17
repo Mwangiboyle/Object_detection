@@ -1,1 +1,8 @@
 venv/
+runs/
+yolo11n.pt
+yolov8n.pt
+yolov8s.pt
+bus.jpg
+prediction_25eae746be6343a68d3333d3d7522e5f.jpg
+
